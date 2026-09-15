@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.idea/
+.env
+.env.dev
+.env.test
+.env.local
+.env.*.local
+coverage/
+storage/
+backups/
+*.log
+.DS_Store
